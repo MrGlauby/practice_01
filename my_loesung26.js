@@ -1,8 +1,9 @@
 "use strict";
 
+
 $(document).ready(function(){  
 
-	//+++++++++++++++++++++++++++++++++++++++++++++++++
+
 	//box2
 	$("#box div p").css({
 		"background-color":"#fff",
